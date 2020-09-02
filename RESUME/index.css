@@ -1,0 +1,67 @@
+﻿*{
+	margin:0;
+	padding:0;
+}
+.container {
+    background-color:white;
+    height:800px;
+    width: 65%;
+    margin: 0 auto;
+    float:left;
+}
+
+.left { 
+    background-color:#003399;
+    float: left;
+    height:800px;
+    width: 35%;
+}
+h1{
+	padding-left:30px;
+}
+img{
+	border-radius:50%;
+	height:150px;
+	margin:30px;
+}
+.skills{
+	color:white;
+	margin:20px;
+}
+.contact{
+	color:white;
+	margin-left:20px;
+}
+.heading{
+	color:#333399;
+}
+.right{
+	color:#6699FF;
+}
+.right1{
+	color:#6699FF;
+	margin:20px;
+}
+.profile{
+	margin:30px;
+}
+.projects{
+	margin:30px;
+}
+.education{
+	margin:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
